@@ -124,9 +124,3 @@ msh >
 ## 注意事项
 
 暂无
-
-## 联系人信息
-
-维护人:
-
-- [SummerGift](https://github.com/SummerGGift)
